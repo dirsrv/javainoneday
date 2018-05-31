@@ -1,4 +1,8 @@
-// simple HelloWorld program
+/* 
+Examples from "Learn Java in one day and LEARN IT WELL" book 
+Simple HelloWorld program, chapter 2
+*/
+//package helloworld;
 
 public class HelloWorld
 	{
